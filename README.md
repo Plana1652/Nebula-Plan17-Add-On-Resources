@@ -1,5 +1,5 @@
 # Nebula-Plan17-Add-On-Resources
-A Add-on of Nebula on the Ship.
+An Add-on of Nebula on the Ship.
 # Reference
 - [Nebula on the Ship](https://github.com/Dolly1016/Nebula) The main mod of this add-on, created by Dolly.
 - [ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) A mod created by *Yukieiji*. It uses the mod's logo and is also partly inspired by it.
